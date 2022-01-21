@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "fd8a33222451bf9171adf1f13f93cc0d257e118484b6dd9f21f2f1e4aa1451ac"
+            "sha256": "64d82e162dc397a1504ec5c8bca4422593cacbb75259b3a48c87e35aba0eabe8"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -37,6 +37,22 @@
             ],
             "version": "==2021.10.8"
         },
+        "charset-normalizer": {
+            "hashes": [
+                "sha256:876d180e9d7432c5d1dfd4c5d26b72f099d503e8fcc0feb7532c9289be60fcbd",
+                "sha256:cb957888737fc0bbcd78e3df769addb41fd1ff8cf950dc9e7ad7793f1bf44455"
+            ],
+            "markers": "python_version >= '3'",
+            "version": "==2.0.10"
+        },
+        "idna": {
+            "hashes": [
+                "sha256:84d9dd047ffa80596e0f246e2eab0b391788b0503584e8945f2368256d2735ff",
+                "sha256:9d643ff0a55b762d5cdb124b8eaa99c66322e2157b69160bc32796e824360e6d"
+            ],
+            "markers": "python_version >= '3'",
+            "version": "==3.3"
+        },
         "python-telegram-bot": {
             "hashes": [
                 "sha256:833f39110f5d019b39a6c6fcbabd6ea1627eaaa0a26e618c0be099568672d791",
@@ -58,6 +74,14 @@
                 "sha256:af097bae1b616dde5c5744441e2ddc69e74dfdcb0c263129610d85b87445a59d"
             ],
             "version": "==0.1.0.post0"
+        },
+        "requests": {
+            "hashes": [
+                "sha256:68d7c56fd5a8999887728ef304a6d12edc7be74f1cfa47714fc8b414525c9a61",
+                "sha256:f22fa1e554c9ddfd16e6e41ac79759e17be9e492b3587efa038054674760e72d"
+            ],
+            "index": "pypi",
+            "version": "==2.27.1"
         },
         "six": {
             "hashes": [
@@ -126,6 +150,13 @@
                 "sha256:28ba8d9fcb6c9a782d6e0078b4f6627af1ea26aeaa32b4eab5324abc7df4149f"
             ],
             "version": "==4.1"
+        },
+        "urllib3": {
+            "hashes": [
+                "sha256:000ca7f471a233c2251c6c7023ee85305721bfdf18621ebff4fd17a8653427ed",
+                "sha256:0e7c33d9a63e7ddfcb86780aac87befc2fbddf46c58dbb487e0855f7ceec283c"
+            ],
+            "version": "==1.26.8"
         }
     },
     "develop": {}
