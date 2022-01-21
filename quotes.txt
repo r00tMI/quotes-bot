@@ -47,3 +47,4 @@ Il costo della sicurezza è più basso se i problemi sono identificati prima
 Se ho i dati in cloud, il backup non mi serve
 Abbiamo uno dei massimi esperti di sicurezza
 Torniamo ai pizzini
+La resilienza della supply chain non può prescindere da una adeguata postura di sicurezza dell'infrastruttura ICT che la sostiene
