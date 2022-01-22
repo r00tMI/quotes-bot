@@ -2,6 +2,7 @@ from telegram.ext import Updater, Filters, CommandHandler, MessageHandler
 from random import randint, randrange
 import sys, os, time
 import requests
+import re
 
 admins = os.getenv("BOT_ADMINS", "")
 admins = admins.split(",")
@@ -15,7 +16,8 @@ if not token:
     sys.exit(-1)
 
 quoteslist = open("quotes.txt","r").readlines()
-buzz = open("buzzwords.txt", "r").readlines()
+buzz = open("buzzwords.txt", "r").read().splitlines()
+buzz_pattern = re.compile(r"(^|\s)({buzzwords})($|\s|[.!?]*)".format(buzzwords="|".join(buzz)), re.IGNORECASE)
 
 def get_random_quote():
     return quoteslist[randint(0, len(quoteslist)-1)].strip()
@@ -46,7 +48,7 @@ def quoteto(update, context):
             print(e)
 
 def quotesupdate(update, context):
-    global admins, quoteslist, buzz
+    global admins, quoteslist, buzz, buzz_pattern
     user = update.message.from_user
     if str(user.id) in admins:
         print("Update command issued by admin, updating")
@@ -71,6 +73,7 @@ def quotesupdate(update, context):
                 with open("buzzwords.txt", "wb") as quotesfile:
                     quotesfile.write(requests.get(buzz_update_url).content)
                 buzz = open("buzzwords.txt","r").readlines()
+                buzz_pattern = re.compile(r"(^|\s)({buzzwords})($|\s|[.!?]*)".format(buzzwords="|".join(buzz)), re.IGNORECASE)
                 print("Buzz updated")
                 context.bot.sendMessage(chat_id=update.message.chat_id, text="Buzzwords aggiornate")
             except Exception as e:
@@ -79,14 +82,12 @@ def quotesupdate(update, context):
 
 
 def handlebuzz(update, context):
+    global buzz_pattern
     response = None
-    for bw in buzz:
-        bw = bw.strip()
-        if bw.lower() in update.message.text.lower():
-            reduced_quoteslist = [x for x in quoteslist if bw.lower() in x.lower()]
-            response = reduced_quoteslist[randint(0, len(reduced_quoteslist)-1)].strip()
-            break
-    if response:
+    search = re.search(buzz_pattern, update.message.text)
+    if search:
+        reduced_quoteslist = [x for x in quoteslist if re.search(re.compile(search.group(2), re.IGNORECASE), x)]
+        response = reduced_quoteslist[randint(0, len(reduced_quoteslist)-1)].strip()
         time.sleep(randrange(155, 289)/100)
         context.bot.sendMessage(chat_id=update.message.chat_id, text=response)
 
