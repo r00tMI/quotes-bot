@@ -55,3 +55,5 @@ Data lake, non data leak
 Faccio il deploy con un clic, non come adesso
 La sicurezza è un key enabler per la digitalizzazione dell'intera organizzazione
 La sicurezza in cloud è un key enabler per la digitalizzazione dell'intera organizzazione e per il cloud journey
+La TIP è sicuramente un investimento ma serve l'approccio olistico, le orchestration e le automation tipiche di una SOAR
+Il security risk assessment è il deliverable per eccellenza per garantire al business una visione olista del rischio residuo
