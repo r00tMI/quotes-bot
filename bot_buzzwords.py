@@ -46,7 +46,7 @@ def quoteto(update, context):
             print(e)
 
 def quotesupdate(update, context):
-    global admins, quoteslist
+    global admins, quoteslist, buzz
     user = update.message.from_user
     if str(user.id) in admins:
         print("Update command issued by admin, updating")
