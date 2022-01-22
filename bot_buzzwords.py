@@ -23,6 +23,28 @@ def get_random_quote():
 def quote(update, context):
     context.bot.sendMessage(chat_id=update.message.chat_id, text=get_random_quote())
 
+def quoteto(update, context):
+    global admins
+    if str(update.message.from_user.id) not in admins:
+        return
+    if not len(context.args):
+        return
+    chat_id = context.args[0]
+    if len(context.args) == 2:
+        bw = context.args[1]
+        reduced_quoteslist = [x for x in quoteslist if bw.lower() in x.lower()]
+        response = reduced_quoteslist[randint(0, len(reduced_quoteslist)-1)].strip()
+        if response:
+            try:
+                context.bot.sendMessage(chat_id=context.args[0], text=response)
+            except Exception as e:
+                print(e)
+    if len(context.args) == 1:
+        try:
+            context.bot.sendMessage(chat_id=context.args[0], text=get_random_quote())
+        except Exception as e:
+            print(e)
+
 def quotesupdate(update, context):
     global admins, quoteslist
     user = update.message.from_user
@@ -73,6 +95,7 @@ def main():
     dp = updater.dispatcher
     dp.add_handler(CommandHandler("quote", quote))
     dp.add_handler(CommandHandler("quotesupdate", quotesupdate, filters=Filters.chat_type.private))
+    dp.add_handler(CommandHandler("quoteto", quoteto, filters=Filters.chat_type.private))
     buzz_handler = MessageHandler(Filters.text & ~(Filters.command), handlebuzz)
     dp.add_handler(buzz_handler)
     
