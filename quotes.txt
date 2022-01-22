@@ -11,12 +11,12 @@ Serve una BIA per aver un risk assessment adeguato e poter prioritizzare gli int
 Il 90% delle violazioni di dati sono causate da un errore umano
 Introducendo nel processo la behavior analysis potremmo mitigare ulteriormente le minacce
 Technology it's a bit
-Dovresti utilizzare meccanismi di sicurezza specifici per contrastare questa minaccia 
+Dovresti utilizzare meccanismi di sicurezza specifici per contrastare questa minaccia
 L’anello debole della catena sta tra la tastiera e la sedia
 Il click è più veloce del cervello
 Mio cugino che aggiusta computer lo fa a meno
 il sistema sicuro è solo quello chiuso in una cassaforte in fondo al mare
-Alla fine basta che ci caschi una sola persona ed è fatta 
+Alla fine basta che ci caschi una sola persona ed è fatta
 Due righe di java e fai tutto
 Faccio cose, spacco computer
 Senza testare il restore, i backup non hanno valore
@@ -40,7 +40,7 @@ Dobbiamo aumentare la resilienza migliorando la postura di sicurezza
 Il CISO deve riportare al CEO per garantire la segregation of duty
 Siamo una società leader di mercato nel nostro settore
 Serve una tassonomia integrata in una metodologia di armonizzazione del rischio
-Dobbiamo prendere una decisione data driven 
+Dobbiamo prendere una decisione data driven
 Senza automazione non riusciremo mai a star dietro alla mole di dati che abbiamo
 L’antivirus è morto
 Il costo della sicurezza è più basso se i problemi sono identificati prima
@@ -51,3 +51,7 @@ La resilienza della supply chain non può prescindere da una adeguata postura di
 Il capo della sicurezza fisica è un ex Carabiniere che lavorava per i servizi
 Il capo della sicurezza è un ex hacker
 A noi la sicurezza la fa una società israeliana
+Data lake, non data leak
+Faccio il deploy con un clic, non come adesso
+La sicurezza è un key enabler per la digitalizzazione dell'intera organizzazione
+La sicurezza in cloud è un key enabler per la digitalizzazione dell'intera organizzazione e per il cloud journey

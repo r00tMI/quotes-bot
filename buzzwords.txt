@@ -34,3 +34,24 @@ backup
 pizzini
 supply chain
 postura
+posture
+olistico
+olistica
+convergenza
+mainframe
+tip
+soar
+sistema
+least privilege
+need to know
+entitlement
+assessment
+awareness
+devops
+devsecops
+agile
+risk
+assessment
+quantum
+computing
+manifesto
