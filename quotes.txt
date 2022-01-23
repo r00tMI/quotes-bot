@@ -33,7 +33,7 @@ Dobbiamo aumentare la resilienza migliorando la postura di sicurezza
 Dobbiamo prendere una decisione data driven
 Dovresti utilizzare meccanismi di sicurezza specifici per contrastare questa minaccia
 Due righe di java e fai tutto
-Entro pure in una botnet se server
+Entro pure in una botnet se serve
 Erano altri tempi quando con +++ATH0 e un ping ci si levava i rompi coglioni di torno
 Essere certificati 27001 non garantisce che non avverranno incidenti
 E’ in alto a destra sul quadrante di Gartner
@@ -120,7 +120,7 @@ Noi non siamo dilettanti che usiamo metasploit, noi abbiamo canvas
 Non mi interessa se la sicurezza è scarsa, io devo prendere il bonus, cambiate quel report
 Non possiamo accedere ai computer per colpa dei terroristi informatici
 Non è questione di se, è questione di quando si verrà bucati
-Nonostante la mia ECDL non capisco niente di sicurezze informatica
+Nonostante la mia ECDL non capisco le scelte riguardo la Cyber Security strategy
 Oggi ho scritto il mio primo exploit per enumerare tutti gli ID dei siti web
 Per meno di 1500 euro al giorno nemmeno apro il terminale
 Per poter proteggere gli asset, serve prima un inventario accurato e completo degli asset
