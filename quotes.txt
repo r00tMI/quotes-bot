@@ -8,6 +8,7 @@ Abbiamo disinstallato l'antivirus perchè rallentava il computer
 Abbiamo fatto progressi nella sicurezza aziendale, solo il 56% degli utenti ha mandato le password durante il test di phishing
 Abbiamo fatto un red teaming, ci hanno scoperto 3 volte ma alla fine siamo riusciti a entrare
 Abbiamo messo a budget 10.000 euro per la sicurezza quest'anno
+Abbiamo riorganizzato la Cyber Security dopo aver letto l'arte della guerra
 Abbiamo sviluppato un piano anti-hacker
 Abbiamo tre antivirus diversi per proteggere i nostri dati
 Abbiamo un firewall israeliano, siamo sicurissimi
