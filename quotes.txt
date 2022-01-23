@@ -1,3 +1,4 @@
+
 A Londra quella RAL la danno ad uno junior
 A fool with a tool is still a fool
 A noi ci segue un'azienda israeliana per la sicurezza, siamo impenetrabili
@@ -9,6 +10,7 @@ Abbiamo fatto progressi nella sicurezza aziendale, solo il 56% degli utenti ha m
 Abbiamo fatto un red teaming, ci hanno scoperto 3 volte ma alla fine siamo riusciti a entrare
 Abbiamo messo a budget 10.000 euro per la sicurezza quest'anno
 Abbiamo riorganizzato la Cyber Security dopo aver letto l'arte della guerra
+Abbiamo selezionato i vendor considerando chi parlava meglio in Italiano
 Abbiamo sviluppato un piano anti-hacker
 Abbiamo tre antivirus diversi per proteggere i nostri dati
 Abbiamo un firewall israeliano, siamo sicurissimi
@@ -45,6 +47,8 @@ Faccio l'hacker con TOR così non mi possono rintracciare
 Faccio pentest col Kali linux, mica sono lamer come voi che uso Wind0wz
 Gli hacker russi bucano i siti col codice binario
 Gli hacker si infiltrano ovunque, sono come i sorci
+Graze all'esperienza della nostra squadra di hacker che ci difendono gli attacchi muoiono sul nascere
+Grazie ai nostri sistemi di sicurezza è praticamente impossibile subire un attacco
 Guai a dire che il Cyber Security Framework è il NIST CSF tradotto in italiano
 Hanno bucato la mia azienda usando le mie password. Come è possibile ? Non ho mai risposto ai phishing!
 Hanno fatto un DDoS con 400mila pacchetti UDP privi di assicurazione su affidabilità, ordinamento e integrità dei dati
@@ -54,6 +58,7 @@ Ho comprato un libro di hacker italiani, però si vede che gli israeliani sono p
 Ho fatto una patch a linux per fare attacchi più potenti
 Ho installato un cluster sventra password
 Ho letto su facebook che la phishing non è un attacco così difficile
+Ho preso tre lauree e sei certificazioni professionali, ne so sicuramente più di quei teppistelli digitali
 Ho scaricato un exploit 0 day .exe da un forum del darkweb ma era talmente potente che il computer mi si è formattato
 Ho un amico hacker in grado di decryptare qualunque cosa
 I DDoS li fanno i lamers, gli hacker, quelli bravi, fanno gli attacchi
@@ -62,6 +67,7 @@ I computer quantistici distruggeranno la crittografia
 I mac sono più sicuri
 I miei amici hacker (white) Whatsapp lo bucano quando vogliono e come vogliono. Figuriamoci i black
 I nostri dati non possono essere decifrati neanche con il computer della NASA
+I penetration test automatici trovano più vulnerabilità di quelli fatti manualmente
 Ieri abbiamo scritto all'hacker e gli abbiamo detto che noi non trattiamo con i criminali
 Ieri dei coglioni su internet mi hanno chiesto la carta di credito e mi hanno regalato dei soldi
 Il 5G inquina le cellule che per difendersi producono virus
@@ -72,6 +78,7 @@ Il GDPR impone requisiti stringenti in materia
 Il capo della sicurezza fisica è un ex Carabiniere che lavorava per i servizi segreti
 Il click è più veloce del cervello
 Il costo della sicurezza è più basso se i problemi sono identificati prima
+Il momento del coglione prima o poi capita a tutti
 Il nostro capo della sicurezza è un ex hacker
 Il nostro sito web non ha porte aperte per gli attacchi
 Il security risk assessment è il deliverable per eccellenza per garantire al business una visione olista del rischio residuo
@@ -125,6 +132,7 @@ Noi infiltriamo i gruppi di hacker sul darkweb
 Noi non siamo dilettanti che usiamo metasploit, noi abbiamo canvas
 Non mi interessa se la sicurezza è scarsa, io devo prendere il bonus, cambiate quel report
 Non possiamo accedere ai computer per colpa dei terroristi informatici
+Non è questione di se, ma di quando avverrà un attacco
 Non è questione di se, è questione di quando si verrà bucati
 Nonostante la mia ECDL non capisco le scelte riguardo la Cyber Security strategy
 Oggi ho scritto il mio primo exploit per enumerare tutti gli ID dei siti web
@@ -137,7 +145,7 @@ Qualcuno mi sa dire un linguaggio di programmazione per hacker ?
 Quando ho iniziato a fare sicurezza i firewall si programmavano con le schede perforate
 Quando ho iniziato io c'erano le schede perforate
 Quando mi chiedono se la mia azienda è sicura, rispondo che se non lo fosse saremmo su tutti i giornali
-Quando un hacker ci attacca no rispondiamo al suo attacco e lo facciamo arrestare
+Quando un hacker ci attacca noi rispondiamo al suo attacco e lo facciamo arrestare
 Quello non è un bug ma una backdoor
 Questa nuova tecnologia fa uso di tecniche di machine learning ed artificial intelligence
 Raga' non avete capito, questi ci fanno il culo se non accendete il patching
@@ -145,6 +153,7 @@ Ragazzi, adesso non è che se uno trova una chiavetta non la può usare, mica so
 Se ho i dati in cloud, il backup non mi serve
 Se il massimo livello di maturità è 5, noi aspiriamo ad essere sicuri 10
 Senza automazione non riusciremo mai a star dietro alla mole di dati che abbiamo
+Senza collaborazione con gli utenti, più ti sforzi a fare sistemi sicuri e più loro troveranno modi per superare le limitazioni che gli hai imposto
 Senza testare il restore, i backup non hanno valore
 Senza una strategia la cyber security tattica comporta solo investimenti sbagliati per il busines
 Serve una BIA per aver un risk assessment adeguato e poter prioritizzare gli interventi
@@ -156,6 +165,7 @@ Siamo una boutique della security
 Siamo una società leader di mercato nel nostro settore
 Siete pazzi a chiedere tutti questi soldi ? Mica siamo una banca che ci serve tutta questa sicurezza
 So tutti pentester con gli exploit degli altri
+Sono il migliore nel mio campo e non mi vergogno a dirlo
 Spiegatemi una cosa, sono due anni che mettiamo soldi su SDLC, ma che vuol dire ? Non siamo già sicuri scrivendo software in Java ?
 Sto bucando un sito con una SQL Injection, qualcuno mi spiega che significa UNION SELECT ?
 Studi internazionali dicono che gli hacker di 13 anni della russia oggi sono quelli più pericolosi
@@ -168,5 +178,6 @@ Un hacker governativo della CIA mi ha detto che possono spiare il telefono anche
 Una volta ero un hacker, su IRC ho fatto tanti take over, usavo venom
 Voglio imparare la cyber security ma questa kali si può installare sul telefonino ?
 Windows ha il kernel NT fuso con il Kernel Linux
-I penetration test automatici trovano più vulnerabilità di quelli fatti manualmente
-Abbiamo selezionato i vendor considerando chi parlava meglio in Italiano
+Conosco il kung-fuffa
+Dopo 25 anni in cyber security consulting ho il terzo dan di slide writing
+Non è importante essere veramente sicuri, l'importante è comunicare di esserlo alla direzione e avere un piano B in caso di guai
