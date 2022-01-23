@@ -1,11 +1,14 @@
-
-A Londra quella RAL la danno ad uno junior
 A fool with a tool is still a fool
+A Londra quella RAL la danno ad uno junior
+A me non me ne frega un cazzo dei benchmark sopratutto se dicono una cosa diversa da quello che dico io
 A noi ci segue un'azienda israeliana per la sicurezza, siamo impenetrabili
+A noi non serve un sistema automatico per l'enrichment, lo fanno a mano gli analisit
 A proposito, si può rimuovere un virus senza installare Kali dentro al PC infettato ?
+Abbiamo adottato una serie di soluzioni di sicurezza che ci danno visibilità end-to-end
 Abbiamo aggiornato i nostri software perchè le password salvate in 3DES erano poco sicure. Per questo oggi usiamo MD5.
 Abbiamo assunto un hacker per difenderci dai crypto locker
 Abbiamo disinstallato l'antivirus perchè rallentava il computer
+Abbiamo fatto controllare per una settimana il codice dagli esperti, ci hanno detto che non ci sono backdoor
 Abbiamo fatto progressi nella sicurezza aziendale, solo il 56% degli utenti ha mandato le password durante il test di phishing
 Abbiamo fatto un red teaming, ci hanno scoperto 3 volte ma alla fine siamo riusciti a entrare
 Abbiamo messo a budget 10.000 euro per la sicurezza quest'anno
@@ -14,27 +17,35 @@ Abbiamo selezionato i vendor considerando chi parlava meglio in Italiano
 Abbiamo sviluppato un piano anti-hacker
 Abbiamo tre antivirus diversi per proteggere i nostri dati
 Abbiamo un firewall israeliano, siamo sicurissimi
+Abbiamo un problema nel ripristino: dopo il cambio del software per fare i backup, e poichè il nuovo software non supporta AS400, i backup che avevamo non li possiamo usare
 Abbiamo un programmatore mezzo hacker a fare la sicurezza dei dati
 Abbiamo una password policy complessa, non è colpa nostra se gli utenti continuano ad usare mese, anno e punto esclamativo
+Abbiamo una rete piatta perchè ci sono delle complessità nella in una rete segmentata che impatterebbero le nostre necessità di performance
 Abbiamo uno dei massimi esperti di sicurezza
 Active directory non lo usa nessuno, meglio autenticare con openldap
 Alla fine basta che ci caschi una sola persona ed è fatta
+Americani, Russi, Cinesi, Indiani ... sono tutti uguali i prodotti, cambia solo chi ci mette la backdoor
 Applicando opportune euristiche, i risultati possono essere integrati, ottenendo cosi’ la compliance
 Avete sentito che quando fischiate al telefono potete avere le telefonate gratis ?
+Avevamo i SIEM a tappo e non riuscivamo a vedere tutti gli eventi di sicurezza, per questo ora loggiamo solo gli eventi login e logut relativi agli amministratori di sistema
 Avevano la password di domain admin scritte sulle fiancate dei camion
 Bisogna scegliere la soluzione più aderente al modello di funzionamento dell’organizzazione
 Cari amici, mi hanno bucato il profilo facebook, non usate il vostro nome come password, quello di vostra madre è più sicuro
 Ci hanno fregato le carte di credito degli hacker Rumeni
 Ci sono dei criminali che rubano le carte di credito con un pos in metropolitana
+Ci sono tre regole fondamentali per un SOC di successo: Uno, buoni analisti. Due, buone tecnologie. Tre, un videowall GIGANTE con i missiletti degli attacchi
 Ci sono vulnerabilità e vulnerabilità, alcune vulnerabilità sono più vulnerabili di altre e per questo ci redono più vulnerabili
 Ci stanno certi ragazzetti che co' quattro righe de java te entrano dappertutto
+Conosco il kung-fuffa
 Data is the new oil
 Data lake, non data leak
+Data leak, data leak ovunque amico mio
 Davvero abbiamo ancora il vostro virus nella rete e nessuno se ne è accorto ?
 Devo scrivere un exploit ma non so codare in assembler. Qualcuno mi scrive uno shellcode ?
 Dobbiamo aumentare la resilienza migliorando la postura di sicurezza
 Dobbiamo prendere una decisione data driven
 Domani migreremo la cyber security sul cloud per avere una maggiore protezione dagli attacchi
+Dopo 25 anni in cyber security consulting ho il terzo dan di slide writing
 Dovresti utilizzare meccanismi di sicurezza specifici per contrastare questa minaccia
 Due righe di java e fai tutto
 Entro pure in una botnet se serve
@@ -58,38 +69,48 @@ Ho comprato un libro di hacker italiani, però si vede che gli israeliani sono p
 Ho fatto una patch a linux per fare attacchi più potenti
 Ho installato un cluster sventra password
 Ho letto su facebook che la phishing non è un attacco così difficile
+Ho preso talmente tante certificazioni che ho dovuto cambiare casa a favore di una con un muro abbastanza grande per appenderle tutte
 Ho preso tre lauree e sei certificazioni professionali, ne so sicuramente più di quei teppistelli digitali
 Ho scaricato un exploit 0 day .exe da un forum del darkweb ma era talmente potente che il computer mi si è formattato
+Ho scritto delle regole di detection sul SIEM, mi sono accorto che però non raccogliamo gli eventi necessari per la detection
+Ho un amico hacker che buca qualunque firewall
 Ho un amico hacker in grado di decryptare qualunque cosa
-I DDoS li fanno i lamers, gli hacker, quelli bravi, fanno gli attacchi
-I Penetration test sono una commodity
 I computer quantistici distruggeranno la crittografia
+I DDoS li fanno i lamers, gli hacker, quelli bravi, fanno gli attacchi
 I mac sono più sicuri
 I miei amici hacker (white) Whatsapp lo bucano quando vogliono e come vogliono. Figuriamoci i black
 I nostri dati non possono essere decifrati neanche con il computer della NASA
+I nostri penetration test sono diversi perchè li fanno degli hacker durante il giorno
 I penetration test automatici trovano più vulnerabilità di quelli fatti manualmente
+I Penetration test sono una commodity
+I pure player hanno il SOC, noi abbiamo sviluppato il concetto di fusion
+I SIEM sono morti, oggi servono UEBA
 Ieri abbiamo scritto all'hacker e gli abbiamo detto che noi non trattiamo con i criminali
 Ieri dei coglioni su internet mi hanno chiesto la carta di credito e mi hanno regalato dei soldi
 Il 5G inquina le cellule che per difendersi producono virus
 Il 90% delle violazioni di dati sono causate da un errore umano
-Il CISO deve riportare al CEO per garantire la segregation of duty
-Il Cyber Crime è un rischio esistenziale
-Il GDPR impone requisiti stringenti in materia
 Il capo della sicurezza fisica è un ex Carabiniere che lavorava per i servizi segreti
+Il CISO deve riportare al CEO per garantire la segregation of duty
 Il click è più veloce del cervello
 Il costo della sicurezza è più basso se i problemi sono identificati prima
+Il Cyber Crime è un rischio esistenziale
+Il GDPR impone requisiti stringenti in materia
+Il giorno che un account della nostra azienda sarà compromesso, devolverò lo stipendio di un anno per aiutare il responsabile a riprendersi dalle mazzate che prenderà da me
+Il maturity model si basa su una metodologia proprietaria della nostra azienda
 Il momento del coglione prima o poi capita a tutti
 Il nostro capo della sicurezza è un ex hacker
 Il nostro sito web non ha porte aperte per gli attacchi
+Il nostro tecnico migliore ci ha rassicurato sull'efficacia dei nostri sistemi di difesa digitali
 Il security risk assessment è il deliverable per eccellenza per garantire al business una visione olista del rischio residuo
 Il sistema sicuro è solo quello chiuso in una cassaforte in fondo al mare
 In questa azienda non possono succedere degli attacchi
 In termini di numero di attacchi, quest’anno è il peggiore di sempre
 Introducendo nel processo la behavior analysis potremmo mitigare ulteriormente le minacce
+Io non uso facebook, ci tengo alla mia privacy. Pubblico tutto su linkedin.
 La 27001 è fuffa e non serve per la vera cyber security
-La PEC è più sicura della posta elettronica normale
-La TIP è sicuramente un investimento ma serve l'approccio olistico, le orchestration e le automation tipiche di una SOAR
 La cyber security è una branca della geopolitica
+La nostra rete è segmentata, abbiamo tutte le VLAN che servono, è complicato fare le ACL però quindi al momento ci affidiamo al routing
+La PEC è più sicura della posta elettronica normale
 La resilienza della supply chain non può prescindere da una adeguata postura di sicurezza dell'infrastruttura ICT che la sostiene
 La sicurezza al 100% non esiste
 La sicurezza deve essere olistica
@@ -98,6 +119,7 @@ La sicurezza non ci serve più da quando abbiamo adottato SecDevOps
 La sicurezza non è soltanto un problema tecnologico
 La sicurezza non è un prodotto ma un processo
 La sicurezza è un key enabler per la digitalizzazione dell'intera organizzazione
+La TIP è sicuramente un investimento ma serve l'approccio olistico, le orchestration e le automation tipiche di una SOAR
 La visione strategica è stata offuscata da una strategia mediocre fatta di tatticismi di breve periodo
 Le nostre fonti di intelligence hanno rilevato un botnet che ruba i dati dei vostri clienti
 Le persone non hanno capito che con la cyber security vendiamo di meno perchè ci voglion due giorni a fare qualsiasi cosa
@@ -120,22 +142,28 @@ Microsoft ha fatto davvero passi da gigante sulla sicurezza, ieri un loro tecnic
 Mio cugino che aggiusta computer lo fa a meno
 Mio cugino ha un negozio di computer dove scancellano i dati cancellati
 Mio cugino è un hacker ed entra nei facebook di chiunque
+Mio cugino è un hacker, con un sms ti spegne la macchina mentre guidi
 Nella cyber security 2+2 non fa sempre 4, spesso fa 5 e se ti dice sfiga fa pure 6
 Nemmeno gli hacker russi possono bucare gli apple
 Nessun hacker bucherebbe mai il mio computer
+Noi abbiamo i Guardiani della Cyber che ci proteggono dagli attacchi
 Noi abbiamo la 27001 mica per ridere
 Noi abbiamo la firma digitale sulla blockchain
+Noi abbiamo NGFW e NGAV, non ci serve altro per bloccare gli attacchi
 Noi ci teniamo alla sicurezza, abbiamo fatto i backup tutti i giorni per tre anni, purtroppo la tape library era rotta ma ce ne siamo accorti solo dopo che ci hanno bucato
 Noi facciamo gli 0-day da remoto durante i pentest
 Noi i pentest li facciamo a mano
 Noi infiltriamo i gruppi di hacker sul darkweb
 Noi non siamo dilettanti che usiamo metasploit, noi abbiamo canvas
+Non diciamo cazzate, devsecops è cosa totalmente diversa da secdevops
 Non mi interessa se la sicurezza è scarsa, io devo prendere il bonus, cambiate quel report
 Non possiamo accedere ai computer per colpa dei terroristi informatici
+Non è importante essere veramente sicuri, l'importante è comunicare di esserlo alla direzione e avere un piano B in caso di guai
 Non è questione di se, ma di quando avverrà un attacco
 Non è questione di se, è questione di quando si verrà bucati
 Nonostante la mia ECDL non capisco le scelte riguardo la Cyber Security strategy
 Oggi ho scritto il mio primo exploit per enumerare tutti gli ID dei siti web
+Ottieni più informazioni e più rapidamente pagando un caffè che facendo un attacco di social engineering
 Per meno di 1500 euro al giorno nemmeno apro il terminale
 Per poter proteggere gli asset, serve prima un inventario accurato e completo degli asset
 Perchè un hacker dovrebbe bucare proprio noi ? Non siamo mica una banca!
@@ -144,6 +172,7 @@ Qualcuno mi sa dire come ci si certifica per diventare hacker governativo ?
 Qualcuno mi sa dire un linguaggio di programmazione per hacker ?
 Quando ho iniziato a fare sicurezza i firewall si programmavano con le schede perforate
 Quando ho iniziato io c'erano le schede perforate
+Quando ho iniziato, per entrare in sala server ci voleva il camice bianco. Oggi ci vuole il brevetto di volo e non sai nemmeno verso dove devi volare
 Quando mi chiedono se la mia azienda è sicura, rispondo che se non lo fosse saremmo su tutti i giornali
 Quando un hacker ci attacca noi rispondiamo al suo attacco e lo facciamo arrestare
 Quello non è un bug ma una backdoor
@@ -152,6 +181,7 @@ Raga' non avete capito, questi ci fanno il culo se non accendete il patching
 Ragazzi, adesso non è che se uno trova una chiavetta non la può usare, mica sono tutti criminali quelli che perdono le chiavette
 Se ho i dati in cloud, il backup non mi serve
 Se il massimo livello di maturità è 5, noi aspiriamo ad essere sicuri 10
+Sei veramente tattico, queste iniziative non diventerebbero strategiche neanche se le rivedesse Sun Tzu in persona
 Senza automazione non riusciremo mai a star dietro alla mole di dati che abbiamo
 Senza collaborazione con gli utenti, più ti sforzi a fare sistemi sicuri e più loro troveranno modi per superare le limitazioni che gli hai imposto
 Senza testare il restore, i backup non hanno valore
@@ -166,6 +196,7 @@ Siamo una società leader di mercato nel nostro settore
 Siete pazzi a chiedere tutti questi soldi ? Mica siamo una banca che ci serve tutta questa sicurezza
 So tutti pentester con gli exploit degli altri
 Sono il migliore nel mio campo e non mi vergogno a dirlo
+Sorry ma oggi sono busyssimo, ho delle call back-to-back fino alle 21, poi un meeting one to one col boss e in fine una client dinner
 Spiegatemi una cosa, sono due anni che mettiamo soldi su SDLC, ma che vuol dire ? Non siamo già sicuri scrivendo software in Java ?
 Sto bucando un sito con una SQL Injection, qualcuno mi spiega che significa UNION SELECT ?
 Studi internazionali dicono che gli hacker di 13 anni della russia oggi sono quelli più pericolosi
@@ -178,6 +209,4 @@ Un hacker governativo della CIA mi ha detto che possono spiare il telefono anche
 Una volta ero un hacker, su IRC ho fatto tanti take over, usavo venom
 Voglio imparare la cyber security ma questa kali si può installare sul telefonino ?
 Windows ha il kernel NT fuso con il Kernel Linux
-Conosco il kung-fuffa
-Dopo 25 anni in cyber security consulting ho il terzo dan di slide writing
-Non è importante essere veramente sicuri, l'importante è comunicare di esserlo alla direzione e avere un piano B in caso di guai
+Windows è diventato molto più sicuro negli ultimi anni, ma la community continua a sostenere linux che ha 30 volte i bug che ha windows
