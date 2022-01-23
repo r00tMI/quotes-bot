@@ -32,6 +32,7 @@ Davvero abbiamo ancora il vostro virus nella rete e nessuno se ne è accorto ?
 Devo scrivere un exploit ma non so codare in assembler. Qualcuno mi scrive uno shellcode ?
 Dobbiamo aumentare la resilienza migliorando la postura di sicurezza
 Dobbiamo prendere una decisione data driven
+Domani migreremo la cyber security sul cloud per avere una maggiore protezione dagli attacchi
 Dovresti utilizzare meccanismi di sicurezza specifici per contrastare questa minaccia
 Due righe di java e fai tutto
 Entro pure in una botnet se serve
@@ -44,6 +45,7 @@ Faccio l'hacker con TOR così non mi possono rintracciare
 Faccio pentest col Kali linux, mica sono lamer come voi che uso Wind0wz
 Gli hacker russi bucano i siti col codice binario
 Gli hacker si infiltrano ovunque, sono come i sorci
+Guai a dire che il Cyber Security Framework è il NIST CSF tradotto in italiano
 Hanno bucato la mia azienda usando le mie password. Come è possibile ? Non ho mai risposto ai phishing!
 Hanno fatto un DDoS con 400mila pacchetti UDP privi di assicurazione su affidabilità, ordinamento e integrità dei dati
 Hanno un wi-fi vulnerabile al wep
@@ -89,9 +91,11 @@ La sicurezza non ci serve più da quando abbiamo adottato SecDevOps
 La sicurezza non è soltanto un problema tecnologico
 La sicurezza non è un prodotto ma un processo
 La sicurezza è un key enabler per la digitalizzazione dell'intera organizzazione
+La visione strategica è stata offuscata da una strategia mediocre fatta di tatticismi di breve periodo
 Le nostre fonti di intelligence hanno rilevato un botnet che ruba i dati dei vostri clienti
 Le persone non hanno capito che con la cyber security vendiamo di meno perchè ci voglion due giorni a fare qualsiasi cosa
 Le tecnologie di sicurezza perimetrale hanno perso valore perché il perimetro non esiste più
+Linux non è un sistema operativa ma una setta di nerd tossicodipendenti
 Linux è per gli hacker, windows lo usano solo i lamer
 Lo fa pure Mr. Robot quello che fate voi
 L’anello debole della catena sta tra la tastiera e la sedia
@@ -107,6 +111,7 @@ Mi sono connesso al router con l'IP spoofato
 Mi sono preso un virus da un sito porno
 Microsoft ha fatto davvero passi da gigante sulla sicurezza, ieri un loro tecnico mi ha scritto mentre navigavo, è entrato sul computer e mi ha tolto un virus
 Mio cugino che aggiusta computer lo fa a meno
+Mio cugino ha un negozio di computer dove scancellano i dati cancellati
 Mio cugino è un hacker ed entra nei facebook di chiunque
 Nella cyber security 2+2 non fa sempre 4, spesso fa 5 e se ti dice sfiga fa pure 6
 Nemmeno gli hacker russi possono bucare gli apple
@@ -131,6 +136,7 @@ Qualcuno mi sa dire come ci si certifica per diventare hacker governativo ?
 Qualcuno mi sa dire un linguaggio di programmazione per hacker ?
 Quando ho iniziato a fare sicurezza i firewall si programmavano con le schede perforate
 Quando ho iniziato io c'erano le schede perforate
+Quando mi chiedono se la mia azienda è sicura, rispondo che se non lo fosse saremmo su tutti i giornali
 Quando un hacker ci attacca no rispondiamo al suo attacco e lo facciamo arrestare
 Quello non è un bug ma una backdoor
 Questa nuova tecnologia fa uso di tecniche di machine learning ed artificial intelligence
@@ -156,8 +162,11 @@ Studi internazionali dicono che gli hacker di 13 anni della russia oggi sono que
 Sul mac non ci sono i virus
 Technology it's a bit
 Torniamo ai pizzini
+Tre cose posso dire della nostra sicurezza, ma non lo farò fino a che non ci sarà un'NDA firmato
 Tutti i job posting dovrebbero riportare la RAL
 Un hacker governativo della CIA mi ha detto che possono spiare il telefono anche senza batteria
 Una volta ero un hacker, su IRC ho fatto tanti take over, usavo venom
 Voglio imparare la cyber security ma questa kali si può installare sul telefonino ?
 Windows ha il kernel NT fuso con il Kernel Linux
+I penetration test automatici trovano più vulnerabilità di quelli fatti manualmente
+Abbiamo selezionato i vendor considerando chi parlava meglio in Italiano
