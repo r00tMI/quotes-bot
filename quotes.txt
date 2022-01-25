@@ -57,3 +57,6 @@ La sicurezza è un key enabler per la digitalizzazione dell'intera organizzazion
 La sicurezza in cloud è un key enabler per la digitalizzazione dell'intera organizzazione e per il cloud journey
 La TIP è sicuramente un investimento ma serve l'approccio olistico, le orchestration e le automation tipiche di una SOAR
 Il security risk assessment è il deliverable per eccellenza per garantire al business una visione olista del rischio residuo
+Nel DevSecOps il cambiamento maggiore è il cultural shift
+Nel DevOps il cambiamento maggiore è il cultural shift
+Nel DevSecOps la shift left strategy della security è key point
