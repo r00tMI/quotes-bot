@@ -40,7 +40,6 @@ olistico
 olistica
 convergenza
 mainframe
-tip
 soar
 sistema
 least privilege
