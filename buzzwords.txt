@@ -20,7 +20,7 @@ machine learning
 artificial intelligence
 quantistic
 27001
-soar
+SOAR
 schede perforate
 pentest
 security
