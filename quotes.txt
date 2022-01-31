@@ -119,7 +119,6 @@ La sicurezza non ci serve più da quando abbiamo adottato SecDevOps
 La sicurezza non è soltanto un problema tecnologico
 La sicurezza non è un prodotto ma un processo
 La sicurezza è un key enabler per la digitalizzazione dell'intera organizzazione
-La TIP è sicuramente un investimento ma serve l'approccio olistico, le orchestration e le automation tipiche di una SOAR
 La visione strategica è stata offuscata da una strategia mediocre fatta di tatticismi di breve periodo
 Le nostre fonti di intelligence hanno rilevato un botnet che ruba i dati dei vostri clienti
 Le persone non hanno capito che con la cyber security vendiamo di meno perchè ci voglion due giorni a fare qualsiasi cosa
@@ -206,6 +205,7 @@ Torniamo ai pizzini
 Tre cose posso dire della nostra sicurezza, ma non lo farò fino a che non ci sarà un'NDA firmato
 Tutti i job posting dovrebbero riportare la RAL
 Un hacker governativo della CIA mi ha detto che possono spiare il telefono anche senza batteria
+Una Threat Intelligence Platform è sicuramente un investimento ma serve l'approccio olistico, le orchestration e le automation tipiche di una SOAR
 Una volta ero un hacker, su IRC ho fatto tanti take over, usavo venom
 Voglio imparare la cyber security ma questa kali si può installare sul telefonino ?
 Windows ha il kernel NT fuso con il Kernel Linux
