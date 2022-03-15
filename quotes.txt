@@ -210,3 +210,4 @@ Una volta ero un hacker, su IRC ho fatto tanti take over, usavo venom
 Voglio imparare la cyber security ma questa kali si può installare sul telefonino ?
 Windows ha il kernel NT fuso con il Kernel Linux
 Windows è diventato molto più sicuro negli ultimi anni, ma la community continua a sostenere linux che ha 30 volte i bug che ha windows
+Con le vulnerabilità vecchie non me buchi
