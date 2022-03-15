@@ -69,3 +69,4 @@ kernel
 hacker
 cyber
 sql
+vulnerabilità
